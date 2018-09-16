@@ -1,0 +1,130 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "eng": "small",
+            "img": "https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/small_building.jpg?itok=L7Bkyy0O",
+            "rom": "chisai"
+        },
+        {
+            "id": 2,
+            "eng": "big",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Big_%26_Small_Pumkins.JPG",
+            "rom": "ooki"
+        },
+        {
+            "id": 3,
+            "eng": "tall, expensive",
+            "img": "http://tapestryofgrace.com/blog/wp-content/uploads/2014/10/bank-20clipart-bag-money-coins-clip-art-2292306.jpg",
+            "rom": "takai"
+        },
+        {
+            "id": 4,
+            "eng": "cheap",
+            "img": "http://1.bp.blogspot.com/-v0Ak7T7oNIM/UOs5L4wNgvI/AAAAAAAAAcE/fu02RSZ-a28/s1600/pennies+spoon.jpg",
+            "rom": "yasui"
+        },
+        {
+            "id": 5,
+            "eng": "delicious",
+            "img": "https://openclipart.org/download/295788/publicdomainq-yum3.svg",
+            "rom": "oishii"
+        },
+        {
+            "id": 6,
+            "eng": "kind",
+            "img": "https://previews.123rf.com/images/zapolzun/zapolzun1511/zapolzun151100025/48083964-kind-boy-helps-old-lady-in-wheelchair-people-crossing-the-road-blue-sky-and-clouds-on-background-.jpg",
+            "rom": "yasashii"
+        },
+        {
+            "id": 7,
+            "eng": "awful",
+            "img": "https://julietaustin.com/wp-content/uploads/2012/10/canstockphoto7311200.jpg",
+            "rom": "hidoi"
+        },
+        {
+            "id": 8,
+            "eng": "bad",
+            "img": "https://periodicocorreo.com.mx/wp-content/uploads/2016/06/SORAYA-OK.jpg",
+            "rom": "warui"
+        },
+        {
+            "id": 9,
+            "eng": "new",
+            "img": "https://www.driving.co.uk/s3/st-driving-prod/uploads/2018/01/Citroen-C5-Aircross-2018.jpg",
+            "rom": "atarashi"
+        },
+        {
+            "id": 10,
+            "eng": "difficult",
+            "img": "https://openclipart.org/download/280680/Integral-icon.svg",
+            "rom": "muzukashi"
+        },
+        {
+            "id": 11,
+            "eng": "interesting, fun",
+            "img": "https://www.finetunedfinances.com/wp-content/uploads/2018/01/fun-on-a-holiday-768x576.jpg",
+            "rom": "omashiroi"
+        },
+        {
+            "id": 12,
+            "eng": "sweet",
+            "img": "http://images.indianexpress.com/2015/12/sugar-spoon_759_thinkstockphotos-488520819.jpg",
+            "rom": "amai"
+        },
+        {
+            "id": 13,
+            "eng": "cool",
+            "img": "https://cdn.vox-cdn.com/thumbor/lMXBzfJthIXJwZ16Rr7mhHApp3Q=/166x0:2833x2000/920x613/filters:focal(166x0:2833x2000):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/55998769/1_3V8x0m62mBzUqEThApdtTg.0.jpeg",
+            "rom": "suzushii"
+        },
+        {
+            "id": 14,
+            "eng": "young",
+            "img": "http://seriefilosenfurecidos.com/wp-content/uploads/2017/09/YoungSheldon-S1_2000x1125_thumbnail-title-1.png",
+            "rom": "wakai"
+        },
+        {
+            "id": 15,
+            "eng": "old",
+            "img": "https://brokelyn.com/app/uploads/2012/11/old-people-rock.jpg",
+            "rom": "kurui"
+        },
+        {
+            "id": 16,
+            "eng": "early, fast",
+            "img": "https://thumb7.shutterstock.com/display_pic_with_logo/709372/105446477/stock-photo-comic-fast-running-superhero-illustration-of-a-cartoon-happy-super-hero-running-faster-than-a-105446477.jpg",
+            "rom": "hayai"
+        },
+        {
+            "id": 17,
+            "eng": "painful",
+            "img": "http://ichef.bbci.co.uk/wwfeatures/wm/live/130_73/images/live/p0/2l/rj/p02lrjcz.jpg",
+            "rom": "itai"
+        },
+        {
+            "id": 18,
+            "eng": "black",
+            "img": "https://vignette.wikia.nocookie.net/phobia/images/5/5a/Black.jpg/revision/latest?cb=20161111013026",
+            "rom": "kuroi"
+        },
+        {
+            "id": 19,
+            "eng": "white",
+            "img": "https://d1u4oo4rb13yy8.cloudfront.net/article/49133-wqmsfsapth-1484164162.jpg",
+            "rom": "shiroi"
+        },
+        {
+            "id": 20,
+            "eng": "red",
+            "img": "https://otakukart.com/wp-content/uploads/2017/11/maxresdefault-11.jpg",
+            "rom": "akai"
+        },
+        {
+            "id": 21,
+            "eng": "blue",
+            "img": "https://www.dailydot.com/wp-content/uploads/a09/b5/7fa705e9f160f19ca1449b7adacc4dff.jpg",
+            "rom": "aoi"
+        }
+    ]
+}
